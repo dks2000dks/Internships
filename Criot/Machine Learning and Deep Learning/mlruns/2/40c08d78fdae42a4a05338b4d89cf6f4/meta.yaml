@@ -1,0 +1,15 @@
+artifact_uri: file:///home/krishna/Desktop/Criot/Machine%20Learning%20and%20Deep%20Learning/mlruns/2/40c08d78fdae42a4a05338b4d89cf6f4/artifacts
+end_time: 1577432154814
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 40c08d78fdae42a4a05338b4d89cf6f4
+run_uuid: 40c08d78fdae42a4a05338b4d89cf6f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1577432154661
+status: 3
+tags: []
+user_id: krishna
