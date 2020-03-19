@@ -1,3 +1,3 @@
-### Criot Smart Light
+# Criot Smart Light
 
-ML algorithm for Criot Smart Light
+ML Algorithm for Criot Smart Light
